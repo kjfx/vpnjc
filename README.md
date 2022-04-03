@@ -9,4 +9,5 @@
 <p><strong>ClashX使用教程（Mac）： </strong>https://youtu.be/ipwsiG03W6g</p>
 <p><strong>Clash使用教程（Mac）： </strong>https://youtu.be/Clv9p9v0e0o</p>
 <p><strong>机场是什么？如何通过机场翻墙？</strong><br>
-教程：https://youtu.be/L_JVJ7s9wIU</p>
+教程：https://youtu.be/L_JVJ7s9wIU</p><br>
+<p>更多教程请在YouTube搜索：科技分享</p>
